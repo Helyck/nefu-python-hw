@@ -2,12 +2,11 @@ def is_prime(n):
     if n < 2:
         return False
 
-    result = True
     for a in range(2, n - 1):
         if n % a == 0:
-            result = False
+            return False
 
-    return result
+    return True
 
 
 if __name__ == '__main__':

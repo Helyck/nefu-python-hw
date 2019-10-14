@@ -1,22 +1,15 @@
 def is_power_of_two(n):
     a = n
-    s = 0
-    run = True
-    result = False
 
-    if a <= 0:
-        run = False
+    if a <= 1:
+        return False
 
-    while run:
-        if a % 2 == 1:
-            run = False
-        else:
-            a = a / 2
-            if a == 2:
-                result = True
-                run = False
+    while a % 2 == 0:
+        a = a / 2
+        if a == 2:
+            return True
 
-    return result
+    return False
 
 
 if __name__ == '__main__':

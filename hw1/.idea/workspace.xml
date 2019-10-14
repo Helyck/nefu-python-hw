@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="859bb4d8-09b7-4efa-9e01-86ff5ed2cd79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hw2/.idea/dictionaries/helyck.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw2/practice04_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw2/practice04_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hw2/practice04_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2/ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab2/ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab4/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab4/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab4/ex3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice02_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice02_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice02_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice02_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/ex3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,20 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice02_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="26" selection-start-line="21" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="165">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice02_04.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -98,10 +89,10 @@
         <option value="$PROJECT_DIR$/hello.py" />
         <option value="$PROJECT_DIR$/practice02.py" />
         <option value="$PROJECT_DIR$/practice02_2.py" />
-        <option value="$PROJECT_DIR$/practice02_03.py" />
-        <option value="$PROJECT_DIR$/practice02_04.py" />
         <option value="$PROJECT_DIR$/practice02_05.py" />
         <option value="$PROJECT_DIR$/practice02_06.py" />
+        <option value="$PROJECT_DIR$/practice02_03.py" />
+        <option value="$PROJECT_DIR$/practice02_04.py" />
       </list>
     </option>
   </component>
@@ -146,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practice02_06">
+  <component name="RunManager" selected="Python.practice02_04">
     <configuration name="practice02_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice02_04" />
+        <item itemvalue="Python.practice02_03" />
         <item itemvalue="Python.practice02_06" />
         <item itemvalue="Python.practice02_01" />
         <item itemvalue="Python.practice02_05" />
-        <item itemvalue="Python.practice02_04" />
-        <item itemvalue="Python.practice02_03" />
       </list>
     </recent_temporary>
   </component>
@@ -279,12 +270,12 @@
     <frame x="30" y="23" width="1410" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982001" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24982001" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,13 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice02_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice02_05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -338,8 +322,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practice02_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="26" selection-start-line="21" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice02_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
