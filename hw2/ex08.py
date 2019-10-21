@@ -2,11 +2,11 @@ def get_partition(S):
     out = []
     beg = 0
     end = get_end_of_right_partition_started_at(S, 0)
-    out.append(S[beg:end])
+    out.append(S[beg:end + 1])
     while end < len(S) - 1:
         beg = end + 1
         end = get_end_of_right_partition_started_at(S, beg)
-        out.append(S[beg:end])
+        out.append(S[beg:end + 1])
 
     return out
 
