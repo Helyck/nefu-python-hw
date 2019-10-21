@@ -5,8 +5,8 @@ def is_valid(braces_string):
             count += 1
         if c == ')':
             count -= 1
-        if count < 0:
-            return False
+            if count < 0:
+                return False
 
     if count == 0:
         return True
